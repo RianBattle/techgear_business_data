@@ -1,11 +1,7 @@
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from pandas import DataFrame
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn import metrics
 
 def create_scatter_plot(df: DataFrame, x: str, y: str, title: str, x_label: str, y_label: str):
     sns.scatterplot(x=x, y=y, data=df)
