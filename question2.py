@@ -20,12 +20,15 @@ def create_instagram_scatter_plot(df):
     plt.ylabel("Instagram Ads")
     plt.show()
 
-def create_discount_scatter_plot(df):
+def create_discount_scatter_plot(df: pd.DataFrame):
     sns.scatterplot(x="Sales", y="Discount_Rate", data=df)
     plt.title("Scatter Plot of Sales vs Discount Rates")
     plt.xlabel("Sales")
     plt.ylabel("Discount Rates")
     plt.show()
+
+def create_scatter_plot():
+    pass
 
 if __name__ == "__main__":
     sales_data_file_path = r"data\techgear_sales_data.xlsx"
