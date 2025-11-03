@@ -1,1 +1,0 @@
-sales_data_file_path = r"\instructions\techgear_sales_data.xlsx"
