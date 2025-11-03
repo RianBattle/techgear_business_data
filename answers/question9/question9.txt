@@ -1,0 +1,26 @@
+Welcome to the CBC MILP Solver
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\source\repos\tech_gear_analysis\.venv\Lib\site-packages\pulp\apis\../solverdir/cbc/win/i64/cbc.exe C:\Users\rbattle\AppData\Local\Temp\a231a013d0254247b82afadfbc1905a4-pulp.mps -max -timeMode elapsed -branch -printingOptions all -solution C:\Users\rbattle\AppData\Local\Temp\a231a013d0254247b82afadfbc1905a4-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 10 COLUMNS
+At line 20 RHS
+At line 26 BOUNDS
+At line 27 ENDATA
+Problem MODEL has 5 rows, 2 columns and 7 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 0 (-5) rows, 0 (-2) columns and 0 (-7) elements
+Empty problem - 0 rows, 0 columns and 0 elements
+Optimal - objective value 48000
+After Postsolve, objective 48000, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 48000 - 0 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.02   (Wallclock seconds):       0.02
+
+Status: Optimal
+Optimal Facebook Spend: $9,000.00
+Optimal Instagram Spend: $1,000.00
+Maximum Sales: $48,000.00

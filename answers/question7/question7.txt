@@ -1,0 +1,7 @@
+Individual RMSE scores for each fold: [83.91198341 98.18429881 78.13406057 81.37680706 81.43140905]
+Average RMSE across all folds: 84.6077
+Standard deviation of RMSE scores: 7.0320
+Decision Tree Regression with 5-Fold Cross-Validation
+Invidual RMSE scores for each fold: [ 95.76925394  97.06054811 118.66093151 121.90535947  98.6927049 ]
+Mean RMSE for Decision Tree Regression: 106.4178
+Standard deviation of RMSE scores: 11.4051

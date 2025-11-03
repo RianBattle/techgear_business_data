@@ -1,0 +1,3 @@
+Estimated Average Monthly Sales: $6,007.63
+Estimated Median Monthly Sales: $6,010.23
+Estimated Standard Deviation of Monthly Sales: $115.92
