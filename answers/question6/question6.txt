@@ -1,0 +1,5 @@
+3 MONTH MOVING AVERAGE FORECAST:
+Forecast for the next month (based on 3-month moving average): 6061.00
+
+EXPONENTIAL SMOOTHING AVERAGE FORECAST:
+Forecasted Value(s): 2025-01-31    6032.01357

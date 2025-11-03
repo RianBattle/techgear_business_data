@@ -1,0 +1,5 @@
+Coefficient/Slope: 16.035851527285413
+Intercept: -2981.030575605927
+Mean Absolute Error: 605.9152692632649
+Mean Squared Error: 519169.9759910648
+R-squared: 0.3049730215637141
